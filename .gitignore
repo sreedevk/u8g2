@@ -1,2 +1,5 @@
 *.o
 *.~
+./**/*.bat
+build/*
+!build/.keep
